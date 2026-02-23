@@ -1,5 +1,5 @@
 global:
-  domain: alice-ledger-saas.alice-platform.com
+  domain: alice-ledger-saas.alicelaw.net
 frontend:
   replicas: 2
   image: alice-ledger-saas/frontend:latest
